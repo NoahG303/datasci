@@ -1,0 +1,8 @@
+Models:
+Logistic Regression (softmax?)
+Naive Bayes
+Perceptron? (see ML notes)
+SVM
+DT
+KNN
+NN type things
