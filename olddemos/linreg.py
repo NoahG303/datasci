@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-data = pd.read_csv(r'C:\Users\noahg\Desktop\School\code\Fun\Python\new\datasci\data_for_lr.csv') # read data file
+data = pd.read_csv(r'C:\Users\noahg\Desktop\School\code\Fun\Python\new\datasci\datasets\data_for_lr.csv') # read data file
 data = data.dropna() # drop missing vals
 train_input = np.array(data.x[0:500]).reshape(500,1) # first 500 x vals --> 500x1 np array for training
 train_output  = np.array(data.y[0:500]).reshape(500,1) # first 500 y vals --> 500x1 np array for training

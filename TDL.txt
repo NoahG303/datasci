@@ -1,8 +1,14 @@
 Models:
-Logistic Regression (softmax?)
-Naive Bayes
+KNN - done with basics, needs CVD and test on more data
+DT (flowchart)
+Linear Regression - continuous
+Logistic Regression - discrete, multiclass softmax
 Perceptron? (see ML notes)
 SVM
-DT
-KNN
+Naive Bayes
+K means
 NN type things
+
+Other:
+CVD
+save/load models

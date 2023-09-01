@@ -10,7 +10,7 @@ df = pd.DataFrame(data_dict)
 # print(df) # all
 # print(df[['Age', 'Job']]) # just these columns
 
-nfl_data = pd.read_csv(r"C:\Users\noahg\Desktop\School\code\Fun\Python\new\datasci\nfl_teams.csv", index_col ="Name")
+nfl_data = pd.read_csv(r"C:\Users\noahg\Desktop\School\code\Fun\Python\new\datasci\datasets\nfl_teams.csv", index_col ="Name")
 # print(nfl_data) # all
 # print(nfl_data.loc["San Francisco 49ers"]) # sf info
 # print(nfl_data["Conference"]) # name and conf
