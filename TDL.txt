@@ -1,5 +1,4 @@
 Models:
-KNN - done with basics, needs CVD and test on more data
 DT (flowchart)
 Linear Regression - continuous
 Logistic Regression - discrete, multiclass softmax
@@ -10,5 +9,4 @@ K means
 NN type things
 
 Other:
-CVD
-save/load models
+how to save/load models
