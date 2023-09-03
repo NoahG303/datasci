@@ -1,12 +1,11 @@
 Models:
 DT (flowchart)
-Linear Regression - continuous
 Logistic Regression - discrete, multiclass softmax
 Perceptron? (see ML notes)
 SVM
 Naive Bayes
 K means
-NN type things
+NN type things - deep learning, epochs of gradient descent
 
 Other:
 how to save/load models
