@@ -1,5 +1,8 @@
+TDL:
+more DT datasets
+finish MLR/backward elim
+
 Models:
-DT (flowchart)
 Logistic Regression - discrete, multiclass softmax
 Perceptron? (see ML notes)
 SVM
@@ -9,3 +12,4 @@ NN type things - deep learning, epochs of gradient descent
 
 Other:
 how to save/load models
+how to pick between
